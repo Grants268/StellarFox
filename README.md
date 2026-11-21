@@ -184,6 +184,7 @@ Automated tests for the provisioning and renewal configuration live in `k8s/cert
 - **[Getting Started Guide](docs/GETTING_STARTED.md)** — Complete setup guide with Docker
 - [Contributing Guidelines](docs/contributing.md)
 - [Architecture Overview](docs/architecture.md) — System diagram, data flows, sequence diagrams
+- [Architecture Decision Records](docs/adr/README.md) — Decisions, trade-offs, and rationale
 - [API Rate Limits](docs/api-rate-limits.md) — Rate limit values, headers, client best practices
 - [Observability Guide](docs/observability.md) — Prometheus metric names, alerting, logging
 - [Backend Autoscaling](docs/autoscaling.md) — Kubernetes deployment, HPA thresholds, and load tests
